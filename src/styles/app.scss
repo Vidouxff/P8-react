@@ -1,0 +1,19 @@
+// Imports
+// Variables
+@import './global/_variables.scss'; 
+
+@import 'reset';  
+
+// Components
+@import 'components/button';
+
+// Layouts 
+@import 'layouts/_header.scss';
+@import 'layouts/_main.scss';
+
+/* @import 'layouts/main';
+@import 'layouts/footer'; */
+
+// Pages
+/* @import 'pages/home'; /*  */
+@import 'pages/_about.scss'; 
